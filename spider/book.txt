@@ -1,0 +1,275 @@
+亿级流量网站架构核心技术――跟开----http://product.dangdang.com/24244866.html
+尽在双11――阿里巴巴技术演进与超----http://product.dangdang.com/24221588.html
+Python大战机器学习：数据科学家的----http://product.dangdang.com/24195827.html
+运营前线1：一线运营专家的运营方----http://product.dangdang.com/24245163.html
+软件定义世界：云计算中心与智能运----http://product.dangdang.com/24245157.html
+Python自然语言处理----http://product.dangdang.com/23503127.html
+实用机器学习----http://product.dangdang.com/25060875.html
+数据挖掘与预测分析(第2版)----http://product.dangdang.com/24195865.html
+重构 改善既有代码的设计----http://product.dangdang.com/23734636.html
+Kubernetes权威指南：从Docker到Ku----http://product.dangdang.com/24037863.html
+C#入门经典(第7版) C# 6.0 & Visua----http://product.dangdang.com/24011143.html
+测试架构师修炼之道：从测试工程师----http://product.dangdang.com/23946622.html
+Vue.js 前端开发 快速入门与专业应----http://product.dangdang.com/24192616.html
+STC15单片机实战指南（C语言版）―----http://product.dangdang.com/24031847.html
+代码整洁之道 程序员的职业素养----http://product.dangdang.com/24035493.html
+PHP+MySQL+Dreamweaver动态网站开----http://product.dangdang.com/23823001.html
+第一行代码 Android 第2版----http://product.dangdang.com/24144166.html
+微信公众平台与小程序开发 从零搭----http://product.dangdang.com/25060180.html
+Android 源码设计模式解析与实战----http://product.dangdang.com/23802445.html
+iOS开发指南 从Hello World到App S----http://product.dangdang.com/23995416.html
+iOS 10 开发指南----http://product.dangdang.com/24181651.html
+方寸有度 百度移动用户体验设计之----http://product.dangdang.com/24179204.html
+Android高级进阶----http://product.dangdang.com/24074809.html
+移动互联网之路――HTML5+CSS3+jQu----http://product.dangdang.com/24040632.html
+机器学习----http://product.dangdang.com/23898620.html
+TensorFlow实战----http://product.dangdang.com/24188034.html
+神经网络与深度学习----http://product.dangdang.com/23996903.html
+深度学习――Caffe之经典模型详解----http://product.dangdang.com/24104547.html
+机器学习----http://product.dangdang.com/23829650.html
+深度学习：方法及应用----http://product.dangdang.com/23925889.html
+深入理解机器学习：从原理到算法----http://product.dangdang.com/24003108.html
+机器崛起前传――自我意识与人类智----http://product.dangdang.com/24230772.html
+深入理解计算机系统（原书第3版）----http://product.dangdang.com/24106647.html
+全栈性能测试修炼宝典  JMeter实战----http://product.dangdang.com/24048538.html
+Linux运维之道（第2版）----http://product.dangdang.com/24017474.html
+软件测试技术大全 测试基础 流行工----http://product.dangdang.com/23764543.html
+轻量级Django----http://product.dangdang.com/24101643.html
+HI，BUGS――全面软件测试----http://product.dangdang.com/24020957.html
+完全学会Git, GitHub, Git Server----http://product.dangdang.com/23990736.html
+嵌入式Linux编程----http://product.dangdang.com/25062554.html
+谁说菜鸟不会数据分析（入门篇）（----http://product.dangdang.com/23967487.html
+Excel效率手册 早做完，不加班(升----http://product.dangdang.com/24188991.html
+和秋叶一起学Word----http://product.dangdang.com/23808941.html
+Excel 2013应用大全----http://product.dangdang.com/23737287.html
+别告诉我你懂PPT：全新升级版----http://product.dangdang.com/23814375.html
+Word Excel PPT现代商务办公从新手----http://product.dangdang.com/24048616.html
+Excel效率手册  早做完，不加班（----http://product.dangdang.com/24011208.html
+PPT演示之道：写给非设计人员的幻----http://product.dangdang.com/24024283.html
+数据科学家的第一个小目标----http://product.dangdang.com/24195827.html
+PPT高手炼成记----http://product.dangdang.com/23444316.html
+跟老男孩学Linux运维----http://product.dangdang.com/23925716.html
+147----http://product.dangdang.com/24195827.html?point=comment_point
+Python大战机器学习：数据科学家的第一个小----http://product.dangdang.com/24195827.html
+51----http://product.dangdang.com/24194633.html?point=comment_point
+图像处理中的数学修炼国内详细介绍图像处----http://product.dangdang.com/24194633.html
+65----http://product.dangdang.com/24193505.html?point=comment_point
+Go语言实战为读者提供一个专注、全面且符----http://product.dangdang.com/24193505.html
+41----http://product.dangdang.com/24195532.html?point=comment_point
+MongoDB实战（第二版）MongoDB官方团队编----http://product.dangdang.com/24195532.html
+69----http://product.dangdang.com/24189706.html?point=comment_point
+微信企业号开发完全自学手册微信轻应用的----http://product.dangdang.com/24189706.html
+科技之巅2 麻省理工科技评论2017年10大全球突破性技术深度剖析----http://product.dangdang.com/25073506.html
+Adobe After Effects CC 高手之路----http://product.dangdang.com/25078920.html
+WCF 服务编程（第四版）----http://product.dangdang.com/25068019.html
+PPT设计之道----http://product.dangdang.com/24242901.html
+Excel职场手册 260招菜鸟变达人----http://product.dangdang.com/25073253.html
+术与道 移动应用UI设计必修课 第2版----http://product.dangdang.com/25073954.html
+没人会告诉你的PPT真相：学幻灯片制作看这本就够了----http://product.dangdang.com/25065668.html
+微商引流全攻略----http://product.dangdang.com/25069742.html
+流畅的Python----http://product.dangdang.com/25071121.html
+TensorFlow技术解析与实战----http://product.dangdang.com/25073507.html
+Netty实战----http://product.dangdang.com/25073709.html
+阳光失了玻璃窗----http://product.dangdang.com/25078482.html
+机器崛起前传――自我意识与人类智慧的开端----http://product.dangdang.com/24230772.html
+CTO说----http://product.dangdang.com/25064093.html
+超级IP是怎样炼成的----http://product.dangdang.com/25060300.html
+Office 2016高效办公（含DVD光盘1张）----http://product.dangdang.com/25063211.html
+零起点Python足彩大数据与机器学习实盘分析----http://product.dangdang.com/25065665.html
+对象存储：OpenStack Swift应用、管理与开发----http://product.dangdang.com/25066341.html
+深入理解Redis----http://product.dangdang.com/25068304.html
+数字绘画技法丛书--Photoshop插画创作从入门到精通----http://product.dangdang.com/25068970.html
+PowerPoint 2016精美幻灯片制作（含DVD光盘1张）----http://product.dangdang.com/25069736.html
+互联网产品运营：产品经理的10堂精英课----http://product.dangdang.com/25069744.html
+产品经理认证（NPDP）知识体系指南----http://product.dangdang.com/25071183.html
+React Native跨平台移动应用开发（第二版）----http://product.dangdang.com/25072878.html
+全栈应用开发：精益实践----http://product.dangdang.com/25077858.html
+机器学习与数据科学 基于R的统计学习方法----http://product.dangdang.com/25079403.html
+结构有限元分析基础及ANSYS应用----http://product.dangdang.com/25067040.html
+Unreal Engine 4蓝图完全学习教程（典藏中文版）----http://product.dangdang.com/25067472.html
+世界因区块链而不同----http://product.dangdang.com/25074639.html
+AutoCAD 2016中文版建筑设计师？―装潢施工设计篇----http://product.dangdang.com/25077234.html
+区块链技术原理及底层架构----http://product.dangdang.com/25074638.html
+高性能Scala----http://product.dangdang.com/25066344.html
+中文版Maya绑定动画案例高级教程----http://product.dangdang.com/25069481.html
+Java多线程编程实战指南（核心篇）----http://product.dangdang.com/25069727.html
+App Inventor 2 Android应用开发实战----http://product.dangdang.com/25069741.html
+数据科学家养成手册----http://product.dangdang.com/25071182.html
+Spring MVC学习指南 第2版----http://product.dangdang.com/25072144.html
+微信小程序开发入门精要----http://product.dangdang.com/25072157.html
+数据湖架构----http://product.dangdang.com/25072659.html
+LabVIEW快速入门与工程实例----http://product.dangdang.com/25072874.html
+Swift进阶----http://product.dangdang.com/25074340.html
+微信小程序开发快速入门----http://product.dangdang.com/25074345.html
+《网络安全和信息化2017超值精华本》（原《网络运维与管理》）----http://product.dangdang.com/25075407.html
+OpenStack设计与实现（第2版）----http://product.dangdang.com/25075412.html
+大象无形：虚幻引擎程序设计浅析----http://product.dangdang.com/25075415.html
+数据天才：数据科学家修炼之道----http://product.dangdang.com/25075426.html
+CSS核心技术详解----http://product.dangdang.com/25076275.html
+新编AutoCAD制图快捷命令速查一册通----http://product.dangdang.com/25079034.html
+科学+预见人工智能----http://product.dangdang.com/25064212.html
+Go程序设计语言----http://product.dangdang.com/25072202.html
+常用计算机辅助药物设计软件教程----http://product.dangdang.com/25069833.html
+VR/AR/MR开发实战 基于Unity与UE4引擎----http://product.dangdang.com/25065044.html
+面向机器智能的TensorFlow实践----http://product.dangdang.com/25065057.html
+Excel数据可视化 一样的数据不一样的图表（超值版）----http://product.dangdang.com/25069856.html
+图解物联网----http://product.dangdang.com/25064962.html
+Python机器学习实践指南----http://product.dangdang.com/25066760.html
+2017年《电脑爱好者》（普及版）增刊（1）-《电脑维护――小白宝典》----http://product.dangdang.com/25062898.html
+中公UI设计师养成记零基础学Illustrator----http://product.dangdang.com/25071866.html
+Qt平台体系与应用――Qt 5.5+核心方法、技巧与案例----http://product.dangdang.com/25066832.html
+集创思维设计矩阵――写给互联网人的设计指南----http://product.dangdang.com/25061847.html
+微信小程序开发入门与实践----http://product.dangdang.com/25064270.html
+中文版3ds Max 2016 VRay效果图制作完全自学教程 实例版----http://product.dangdang.com/25064965.html
+中文版AutoCAD 2016电气设计从入门到精通----http://product.dangdang.com/25064966.html
+C#高级编程(第10版) C# 6 & .NET Core 1.0----http://product.dangdang.com/25066323.html
+Excel VBA基础与应用----http://product.dangdang.com/25066343.html
+前端架构设计----http://product.dangdang.com/25066767.html
+量化金融R语言初级教程----http://product.dangdang.com/25068819.html
+Linux深度攻略----http://product.dangdang.com/25071201.html
+UG NX 11中文版基础教程----http://product.dangdang.com/25071202.html
+After Effects完全解析----http://product.dangdang.com/25072143.html
+机器人爱好者 第3辑----http://product.dangdang.com/25072152.html
+新编AutoCAD 2016从入门到精通----http://product.dangdang.com/25072158.html
+Direct 3D 12编程指南----http://product.dangdang.com/25072312.html
+机器人构建实战----http://product.dangdang.com/25072658.html
+移动云计算：架构、算法与应用----http://product.dangdang.com/25072662.html
+电脑组装与硬件维修入门与提高----http://product.dangdang.com/25073254.html
+老年人学电脑入门与提高----http://product.dangdang.com/25073255.html
+新编PowerPoint 2016从入门到精通----http://product.dangdang.com/25073256.html
+Apache Kafka源码剖析----http://product.dangdang.com/25073665.html
+Maya建模技术解析----http://product.dangdang.com/25073707.html
+阳光失了玻璃窗----http://product.dangdang.com/25078482.html?ref=book-104762-12632_1-718535-0
+阳光失了玻璃窗----http://product.dangdang.com/25078482.html?ref=book-104762-12632_1-718535-0
+0----http://product.dangdang.com/25078482.html?point=comment_point
+PPT设计之道----http://product.dangdang.com/24242901.html?ref=book-104762-12632_1-718535-1
+PPT设计之道----http://product.dangdang.com/24242901.html?ref=book-104762-12632_1-718535-1
+6----http://product.dangdang.com/24242901.html?point=comment_point
+产品经理认证（NPDP）知识体系----http://product.dangdang.com/25071183.html?ref=book-104762-12632_1-718535-2
+产品经理认证（NPDP）知识体系指南----http://product.dangdang.com/25071183.html?ref=book-104762-12632_1-718535-2
+1----http://product.dangdang.com/25071183.html?point=comment_point
+亿级流量网站架构核心技术――----http://product.dangdang.com/24244866.html?ref=book-104762-12632_1-718535-3
+亿级流量网站架构核心技术――跟开涛学搭建----http://product.dangdang.com/24244866.html?ref=book-104762-12632_1-718535-3
+14----http://product.dangdang.com/24244866.html?point=comment_point
+剑指Offer：名企面试官精讲典----http://product.dangdang.com/24242724.html?ref=book-104762-12632_1-718535-4
+剑指Offer：名企面试官精讲典型编程题（第2----http://product.dangdang.com/24242724.html?ref=book-104762-12632_1-718535-4
+6----http://product.dangdang.com/24242724.html?point=comment_point
+2017年《电脑爱好者》合订本（----http://product.dangdang.com/24216337.html?ref=book-104762-12632_1-718535-5
+2017年《电脑爱好者》合订本（一）----http://product.dangdang.com/24216337.html?ref=book-104762-12632_1-718535-5
+23----http://product.dangdang.com/24216337.html?point=comment_point
+科技之巅2 麻省理工科技评论20----http://product.dangdang.com/25073506.html?ref=book-104762-12632_1-718535-6
+科技之巅2 麻省理工科技评论2017年10大全球----http://product.dangdang.com/25073506.html?ref=book-104762-12632_1-718535-6
+0----http://product.dangdang.com/25073506.html?point=comment_point
+Netty实战----http://product.dangdang.com/25073709.html?ref=book-104762-12632_1-718535-7
+Netty实战----http://product.dangdang.com/25073709.html?ref=book-104762-12632_1-718535-7
+2----http://product.dangdang.com/25073709.html?point=comment_point
+国内知名Go语言技术布道者的再----http://product.dangdang.com/24559046.html?ref=book-104762-12632_1-718535-8
+国内知名Go语言技术布道者的再造之作深入Go----http://product.dangdang.com/24559046.html?ref=book-104762-12632_1-718535-8
+0----http://product.dangdang.com/24559046.html?point=comment_point
+中文版3ds Max 2016 VRay效果----http://product.dangdang.com/25064965.html?ref=book-104762-12632_1-718535-9
+中文版3ds Max 2016 VRay效果图制作完全自----http://product.dangdang.com/25064965.html?ref=book-104762-12632_1-718535-9
+1----http://product.dangdang.com/25064965.html?point=comment_point
+数学之美(第二版)----http://product.dangdang.com/23594870.html?ref=book-104762-12632_2-718550-0
+数学之美(第二版)----http://product.dangdang.com/23594870.html?ref=book-104762-12632_2-718550-0
+19438----http://product.dangdang.com/23594870.html?point=comment_point
+番茄工作法图解：简单易行的时----http://product.dangdang.com/21021603.html?ref=book-104762-12632_2-718550-1
+番茄工作法图解：简单易行的时间管理方法(----http://product.dangdang.com/21021603.html?ref=book-104762-12632_2-718550-1
+39191----http://product.dangdang.com/21021603.html?point=comment_point
+和秋叶一起学PPT：又快又好打----http://product.dangdang.com/23465230.html?ref=book-104762-12632_2-718550-2
+和秋叶一起学PPT：又快又好打造说服力幻灯----http://product.dangdang.com/23465230.html?ref=book-104762-12632_2-718550-2
+22071----http://product.dangdang.com/23465230.html?point=comment_point
+浪潮之巅 第三版 上下册----http://product.dangdang.com/23964270.html?ref=book-104762-12632_2-718550-3
+浪潮之巅 第三版 上下册----http://product.dangdang.com/23964270.html?ref=book-104762-12632_2-718550-3
+4016----http://product.dangdang.com/23964270.html?point=comment_point
+鸟哥的Linux私房菜 基础学习篇----http://product.dangdang.com/20866026.html?ref=book-104762-12632_2-718550-4
+鸟哥的Linux私房菜 基础学习篇(第三版)(Lin----http://product.dangdang.com/20866026.html?ref=book-104762-12632_2-718550-4
+31905----http://product.dangdang.com/20866026.html?point=comment_point
+Word/Excel/PPT现代商务办公从----http://product.dangdang.com/23357834.html?ref=book-104762-12632_2-718550-5
+Word/Excel/PPT现代商务办公从新手到高手（----http://product.dangdang.com/23357834.html?ref=book-104762-12632_2-718550-5
+21819----http://product.dangdang.com/23357834.html?point=comment_point
+Python基础教程(第2版・修订版----http://product.dangdang.com/23473514.html?ref=book-104762-12632_2-718550-6
+Python基础教程(第2版・修订版)----http://product.dangdang.com/23473514.html?ref=book-104762-12632_2-718550-6
+10529----http://product.dangdang.com/23473514.html?point=comment_point
+C++ Primer Plus(第6版)中文版----http://product.dangdang.com/22783504.html?ref=book-104762-12632_2-718550-7
+C++ Primer Plus(第6版)中文版(畅销30年C++----http://product.dangdang.com/22783504.html?ref=book-104762-12632_2-718550-7
+19812----http://product.dangdang.com/22783504.html?point=comment_point
+机器学习----http://product.dangdang.com/23898620.html?ref=book-104762-12632_2-718550-8
+机器学习----http://product.dangdang.com/23898620.html?ref=book-104762-12632_2-718550-8
+10366----http://product.dangdang.com/23898620.html?point=comment_point
+Excel高效办公――数据处理与----http://product.dangdang.com/22809554.html?ref=book-104762-12632_2-718550-9
+Excel高效办公――数据处理与分析(修订版)(----http://product.dangdang.com/22809554.html?ref=book-104762-12632_2-718550-9
+16517----http://product.dangdang.com/22809554.html?point=comment_point
+这才是最强PPT(电子书)----http://product.dangdang.com/1900648329.html
+----http://product.dangdang.com/1900648329.html
+这才是最强PPT(电子书)----http://product.dangdang.com/1900648329.html
+微信小程序：开发入门及案例详解(电子书)----http://product.dangdang.com/1900670191.html
+----http://product.dangdang.com/1900670191.html
+微信小程序：开发入门及案例详解(电子书)----http://product.dangdang.com/1900670191.html
+番茄工作法图解：简单易行的时间管理方法(电子书)----http://product.dangdang.com/1900470914.html
+----http://product.dangdang.com/1900470914.html
+番茄工作法图解：简单易行的时间管理方法(电子书)----http://product.dangdang.com/1900470914.html
+Redis开发与运维(电子书)----http://product.dangdang.com/1900677871.html
+----http://product.dangdang.com/1900677871.html
+Redis开发与运维(电子书)----http://product.dangdang.com/1900677871.html
+黑客攻防实战从入门到精通(电子书)----http://product.dangdang.com/1900636567.html
+----http://product.dangdang.com/1900636567.html
+黑客攻防实战从入门到精通(电子书)----http://product.dangdang.com/1900636567.html
+浪潮之巅 第二版套装：上册+下册（深度剖析IT产业，掌握下一个黄金十年，李开复作序推荐）----http://product.dangdang.com/23265906.html
+UCD火花集2：有效的互联网产品设计 交互/信息设计 用户研究讨论(腾讯用户研究与体验设计中心总经理唐沐作序，众多业内设计师热情推荐。)----http://product.dangdang.com/21068886.html
+C++ Primer中文版(第5版)----http://product.dangdang.com/23321562.html
+Word/Excel/PPT 2010商务办公从新----http://product.dangdang.com/22774911.html
+Excel 2010应用大全(Excel Home各----http://product.dangdang.com/22559967.html
+Excel高效办公――数据处理与分析(----http://product.dangdang.com/22809554.html
+用户体验要素：以用户为中心的产品----http://product.dangdang.com/21110580.html
+Java核心技术 卷1 基础知识（原书----http://product.dangdang.com/23362142.html
+php和mysql web开发(原书第4版)（----http://product.dangdang.com/20546846.html
+Spring实战(第3版) (spring技术内----http://product.dangdang.com/23254532.html
+微信公众平台开发最佳实践----http://product.dangdang.com/23460705.html
+Objective-C基础教程(第2版)----http://product.dangdang.com/23246712.html
+一本书读懂大数据（每个人都看得懂----http://product.dangdang.com/23600629.html
+啊哈C！思考快你一步――用编程轻----http://product.dangdang.com/23334716.html
+深入理解Java虚拟机：JVM高级特性----http://product.dangdang.com/23259731.html
+机器学习（决战大数据时代！IT技术----http://product.dangdang.com/693723.html
+深入理解LINUX内核（第三版）----http://product.dangdang.com/20046247.html
+Excel 2010函数与公式实战技巧精粹----http://product.dangdang.com/23395446.html
+网页制作与网站建设实战大全----http://product.dangdang.com/23268960.html
+iOS 8开发指南----http://product.dangdang.com/23566524.html
+中文版Photoshop CS6完全自学教程(全新CS6升级版)----http://product.dangdang.com/22786104.html
+Word/Excel/PPT 2010商务办公从新----http://product.dangdang.com/22774911.html
+Office2013高效办公三合一（1DVD）----http://product.dangdang.com/23321625.html
+和秋叶一起学PPT：又快又好打造说----http://product.dangdang.com/23465230.html
+番茄工作法图解：简单易行的时间管----http://product.dangdang.com/21021603.html
+C Primer Plus（第五版）中文版(经----http://product.dangdang.com/8976834.html
+Java从入门到精通（第3版）（附光----http://product.dangdang.com/22862060.html
+鸟哥的Linux私房菜 基础学习篇(第----http://product.dangdang.com/20866026.html
+Excel 2010应用大全(Excel Home各----http://product.dangdang.com/22559967.html
+Word/Excel/PPT现代商务办公从新手----http://product.dangdang.com/23357834.html
+一定要学的Photoshop风光人文摄影----http://product.dangdang.com/23510375.html
+数学之美(第二版)----http://product.dangdang.com/23594870.html
+疯狂Android讲义（第2版）（附光盘----http://product.dangdang.com/23200996.html
+谁说菜鸟不会数据分析（工具篇）----http://product.dangdang.com/23259517.html
+用户体验要素：以用户为中心的产品----http://product.dangdang.com/21110580.html
+C++ Primer Plus(第6版)中文版(畅----http://product.dangdang.com/22783504.html
+中文版Photoshop CS5实用教程（附----http://product.dangdang.com/22631720.html
+Photoshop CC数码摄影后期处理完全----http://product.dangdang.com/23563720.html
+中文版Photoshop CS5完全自学教程(----http://product.dangdang.com/20850803.html
+C++ Primer中文版(第5版)----http://product.dangdang.com/23321562.html
+简约至上：交互式设计四策略(ui设----http://product.dangdang.com/21009709.html
+Excel 2013函数与公式大辞典----http://product.dangdang.com/23407415.html
+Arduino奇妙之旅：智能车趣味制作天龙八步----http://product.dangdang.com/23483675.html
+微信公众平台应用开发实战（第2版）----http://product.dangdang.com/23489431.html
+CoffeeScript应用开发----http://product.dangdang.com/23509795.html
+第一行代码――Android----http://product.dangdang.com/23521220.html
+别怕，Excel VBA其实很简单 + Excel VBA实----http://product.dangdang.com/23237143.html
+4819----http://product.dangdang.com/23237143.html?point=comment_point
+憨憨漫游电脑世界----http://product.dangdang.com/8768849.html
+电脑玩笑（3）----http://product.dangdang.com/8891356.html
+数码设计----http://product.dangdang.com/9255638.html
+网络与书14――阅读的所在Space for Reading----http://product.dangdang.com/9334867.html
+最新燃烧远征红宝书：快速升级手册----http://product.dangdang.com/9347143.html
+深入ASP.NET 2.0开发----http://product.dangdang.com/20096734.html
+最新C语言程序设计教程----http://product.dangdang.com/20117724.html
+C语言程序设计实训教程（王琳艳）----http://product.dangdang.com/20192884.html
+Photoshop CS4特效与创意专家解析（附光盘）----http://product.dangdang.com/20803558.html
+Photoshop CS4数码照片处理从新手到高手（附光盘）----http://product.dangdang.com/20805089.html
+3ds Max 2009&VRay; 室内效果图渲染专家解析（附光盘）----http://product.dangdang.com/20806180.html
